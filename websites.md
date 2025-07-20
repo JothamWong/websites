@@ -7,6 +7,8 @@
 
 Collection of C++ blogs
 - https://hackingcpp.com/cpp/blogs.html
+- https://sean-parent.stlab.cc/
+
 
 ## Computer Systems Researcher
 
